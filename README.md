@@ -6,8 +6,12 @@
 ### 1a. Combining SwiftUI with Combine
 Check Day1 folder for pdf and project files.
 
-### 1b. Widget Time (Didn't go but found the repo)
+### 1b. Widget Time
+Github:
 https://github.com/MakeAppPiePublishing/360iDevWidgets_workshop_end
+
+Videos from the Speaker:
+https://vimeo.com/user/88323679/folder/5321914
 
 ### 2. Swift Structured Concurrency 
 https://docs.google.com/document/d/1lY2QDjk2WoJBwvuYA3CRMcTHG-LC5es10N2Lx3CbUn4/edit
