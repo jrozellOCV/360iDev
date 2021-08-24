@@ -60,3 +60,6 @@ Resources:
 * https://appfigures.com/newsletter
 * https://appfigures.com/resources/app-teardowns
 * https://appfigures.com/resources/guides
+
+### 4. Core Animation for Fun and Profit
+PDF under Day3. 
