@@ -94,4 +94,7 @@ Slides: https://github.com/intere/vr-slides
 Slides: https://speakerdeck.com/designatednerd/navigating-docc-360idev-denver-august-2021
 
 ### 5. Free or not Free? How to overcome the negative feelings about charging for an app.
+Slides: 
 
+### 6. Bits & Bytes: Handling Raw Data
+Slides:
