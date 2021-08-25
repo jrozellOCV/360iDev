@@ -6,6 +6,9 @@
 Check Day1 folder for pdf and project files.
 
 ### 1b. Widget Time
+Video:
+https://vimeo.com/showcase/8773716
+
 Github:
 https://github.com/MakeAppPiePublishing/360iDevWidgets_workshop_end
 
