@@ -24,6 +24,7 @@ https://docs.google.com/document/d/1lY2QDjk2WoJBwvuYA3CRMcTHG-LC5es10N2Lx3CbUn4/
 https://github.com/caffeineflo/360iDev2021
 
 ### 2. Multi-Platform Development the SwiftUI Way
+See pdf under Day2. 
 
 ### 3. Getting Started with Server-Side-Swift
 Swift Packages
@@ -72,9 +73,25 @@ PDF under Day3.
 ### 1. Beyond Senior, advancing in technical leadership of software.
 Github slides: https://github.com/coreyd303/360iDev_slides_2021
 
+ARCH.md example: https://gist.github.com/coreyd303/1f3301a36710d788f9a0d9bde00f3919
+PATTERNS.md example: https://gist.github.com/coreyd303/19e4ada460c2b1facd54db4f8afabbda
+
 ### 2. How to use SwiftUI for rapid development
 Speaker Details: https://kristaps.me/
 
 Mr.Byte Cat: https://www.instagram.com/mr_byte_cat/
 
 Speaker Blog: https://kristaps.me/blog/
+
+Sides: https://speakerdeck.com/fassko/how-to-use-swiftui-for-rapid-development
+
+### 3. Virutal Reality as a Development Paradigm 
+Tech: https://immersed.com/
+
+Slides: https://github.com/intere/vr-slides
+
+### 4. Nagivating Docc
+Slides: https://speakerdeck.com/designatednerd/navigating-docc-360idev-denver-august-2021
+
+### 5. Free or not Free? How to overcome the negative feelings about charging for an app.
+
