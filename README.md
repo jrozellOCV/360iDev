@@ -66,3 +66,15 @@ Resources:
 
 ### 4. Core Animation for Fun and Profit
 PDF under Day3. 
+
+## Day 4
+
+### 1. Beyond Senior, advancing in technical leadership of software.
+Github slides: https://github.com/coreyd303/360iDev_slides_2021
+
+### 2. How to use SwiftUI for rapid development
+Speaker Details: https://kristaps.me/
+
+Mr.Byte Cat: https://www.instagram.com/mr_byte_cat/
+
+Speaker Blog: https://kristaps.me/blog/
