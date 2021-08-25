@@ -98,3 +98,10 @@ Slides:
 
 ### 6. Bits & Bytes: Handling Raw Data
 Slides:
+
+### 7. Combine-ing MongoDB Realm with SwiftUI
+Slides: Under Day4.
+
+Github Link (Cloned under Day4): https://github.com/phatblat/RealmTaskTracker
+
+Realm Github: https://github.com/realm/realm-cocoa
